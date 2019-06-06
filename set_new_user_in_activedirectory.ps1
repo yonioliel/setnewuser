@@ -1,0 +1,1 @@
+dsadd user "cn=usertest,ou=test,dc=learnsystem,dc=co,dc=il" -fn testuser -ln usertest -upn usertest@learnsystem -disabled no -pwd Pass456wor$d -mustchpwd no -acctexpires never -pwdneverexpires no
